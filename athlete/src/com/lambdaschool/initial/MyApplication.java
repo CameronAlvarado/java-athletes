@@ -1,4 +1,4 @@
-package com.lambdaschool.initial;
+package src.com.lambdaschool.initial;
 
 public class MyApplication
 {

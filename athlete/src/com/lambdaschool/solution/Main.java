@@ -1,4 +1,4 @@
-package com.lambdaschool.solution;
+package src.com.lambdaschool.solution;
 
 public class Main
 {
@@ -16,7 +16,6 @@ public class Main
         injector = new HockeyAthleteCreationInjector();
         app = injector.getProcess();
         app.displayAthlete();
-
 
         // Create a Rugby Athlete
         injector = new RugbyAthleteCreationInjector();
