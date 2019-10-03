@@ -5,7 +5,7 @@ public class BaseballAthleteImpl implements AthleteCreation
     @Override
     public void displayAthlete(/*String sport, String athlete*/)
     {
-        System.out.println("sport" + " " + "athlete");
+        System.out.println("BaseBall" + " " + "Athlete");
     }
 
     @Override

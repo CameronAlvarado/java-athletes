@@ -11,7 +11,7 @@ public class MyApplication implements Processor
     }
 
     @Override
-    public void displayAthlete(/*String sport, String athlete*/)
+    public void displayAthlete()
     {
         // rules
 //        sport = sport + "\n************";
